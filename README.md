@@ -1,8 +1,4 @@
-# Complete Guide to Node Authentication with MySQL
 
-
-
-Code for the entire scotch.io tutorial series: Complete Guide to Node Authentication with MongoDB
 
 Current version database is ported to MySQL
 
